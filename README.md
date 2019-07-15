@@ -19,3 +19,5 @@ time | roll | pitch | yaw | depth
 - At the beginning of the program, you must submit the name of the file you wish to process. This file must be in the same folder as the program itself.
 
 - Depending on the frequency of the data, you can change the frameRate of the program in line 59.
+
+[[https://github.com/zerstu/sea-turtle-visualizer/blob/master/exampleImage.PNG]]
